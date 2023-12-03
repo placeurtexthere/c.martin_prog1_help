@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dave/Documents/GitHub/c.martin_prog1_help",
+      "program": "/Users/dave/Documents/GitHub/c.martin_prog1_help/build/Debug/outDebug"
+    }
+  ]
+}

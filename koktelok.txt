@@ -1,0 +1,15 @@
+Manhattan#Koktelospohar#Bourbon,0.5,40#Vermuth rosso,0.2,0#Angostura bitter,0.02,0
+Shrek#Colins#Absinthe(fekete),0.3,80#Narancsle,2.5,0
+Zombie#Highball#Feher rum,0.4,37.5#Barna rum,0.3,37.5#Stroh rum,0.3,80#Angusta bitter,0.02,0#Narancsle,0.5,0#Citromle,0.2,0#Ananaszle,0.5,0
+Sex on The Beach#Highball#Vodka,0.4,40#Oszibarack likor,0.2,0#Narancsle,0.4,0#Afonyale,0.4,0
+Tequila Sunrise#Collins#Tequila,0.45,38#Grenadine,0.15,0#Narancsle,0.9,0
+Cuba Libre#Collins#Feher rum,0.5,37.5#Cola,1,0#Lime,0.1,0
+Long Island Iced Tea#Collins#Vodka,0.15,40#Tequila,0.15,38#Feher rum,0.15,37.5#Cointreau,0.15,40#Gin,0.15,40#Citromle,0.25,0#Cukorszirop,0.3,0#Cola,1,0
+Pina Colada#Highball#Feher rum,0.3,37.5#Kokusz szirup,0.3,0#Ananaszle,0.9,0
+Horse's Neck#Collins#Brandy,0.4,40#Gyomber,1.1,0#Angosta bitter,0.02,0
+Gin Tonic#Collins#Gin,0.4,40#Tonic,2,0#Citrom,0.4,0
+Japanese Slipper#Koktelospohar#Sargadinnye likor,0.3,0#Cointreau,0.3,40#Limele,0.3,0
+Margarita#Koktelospohar#Tequila,0.35,40#Cointreau,0.2,40#Citromle,0.15,0
+Planter's Punch#Collins#Barna rum,0.6,37.5#Citromle,0.3,0#Grenadine,0.1,0#Szodaviz,1,0
+Hurrikan#Highball#Captain Morgan Original fuszeres rum,0.1,35#Sotet rum,0.2,37.5#Maracuja le,0.9,0#Mango le,0.9,0#Sweet and Sour mix,0.6,0
+Blue Hawaiian#Highball#Feher rum,0.2,37.5#Kokuszlikor,0.2,0#Ananaszle,0.2,0#Bleu Curacao,0.1,20
